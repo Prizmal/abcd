@@ -1,9 +1,13 @@
-#kosmos{
+#kosmos {
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
+    margin-top: 200px;
+    
 }
-#text{
-text-align: center;
-font-size: 2rem;
+
+#text {
+    text-align: center;
+    font-size: 10rem;
+    margin-top: 50px;
 }
