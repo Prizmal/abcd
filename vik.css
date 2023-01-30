@@ -1,5 +1,15 @@
 #first{
-    background-color: aqua;
+    background-color: rgb(95, 235, 149);
     height: 500px;
     width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+p{
+    font-size: xx-large;
 }
